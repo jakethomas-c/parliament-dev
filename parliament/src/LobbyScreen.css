@@ -1,0 +1,10 @@
+.con input{
+    margin-bottom:4dvh;
+}
+
+.con label{
+    font-family: "Heebo";
+    margin:2dvh;
+    text-transform: uppercase;
+    font-weight: 900;
+}
