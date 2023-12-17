@@ -1,5 +1,7 @@
 body{
     background-color: whitesmoke;
+    width:100dvw;
+    height:100dvh;
 }
 
 button{
@@ -42,7 +44,8 @@ input:focus{
 
 .con{
     margin: 0 auto;
-    width:100dvh;
+    width:100dvw;
+    margin: 0;
     text-align: center;
     margin-top:20dvh;
 }

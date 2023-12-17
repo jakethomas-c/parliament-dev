@@ -26,7 +26,6 @@ function GameScreen({ team1, team2, onReturnToLobby }) {
           setTimer((prevTimer) => prevTimer - 1);
         } else {
           clearInterval(interval);
-          checkWinner();
         }
       }, 1000);
     }
